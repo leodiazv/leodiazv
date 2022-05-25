@@ -31,7 +31,7 @@
 
 <a href="https://leos-e-comerce.netlify.app/#/products">E-COMMERCE</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leodiazv&repo=e-comerce)](https://github.com/leodiazv/e-commerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leodiazv&repo=e-commerce)](https://github.com/leodiazv/e-commerce)
 
 <a href="https://leos-riack-and-morty-app.netlify.app/">RICK AND MORTY APP</a>
 
