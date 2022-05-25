@@ -1,7 +1,7 @@
 <h1 align="center">Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Soy Leo</h1>
 <h3 align="center">Un programador buscando salir del cascarón 🥚🐣🐥</h3>
 
-- 🔭 Actualmente curso un bootcamp como Web Full Stack.
+- 🔭 Actualmente curso un bootcamp como programador Web Full Stack.
 
 - 🌱 Estoy aprendiendo **NodeJS**
 
