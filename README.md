@@ -29,7 +29,17 @@
 
 <h4>Front</h4>
 
+<a href="https://leos-e-comerce.netlify.app/#/products">E-COMERCE</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leodiazv&repo=e-comerce)](https://github.com/leodiazv/e-comerce)
+
+<a href="https://leos-riack-and-morty-app.netlify.app/">RICK AND MORTY APP</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leodiazv&repo=leo-rick-and-morty-app)](https://github.com/leodiazv/leo-rick-and-morty-app)
+
+<a href="https://leos-pokedex.netlify.app/">POKEDEX</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leodiazv&repo=pokedex)]([https://github.com/leodiazv/e-comerce](https://github.com/leodiazv/pokedex))
+
+<h4>Back</h4>
 
