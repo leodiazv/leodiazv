@@ -29,6 +29,6 @@
 
 <h4>Front</h4>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leodiazv&repo=e-comerce)](https://github.com/leodiazv/e-comerce)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leodiazv&repo=leo-rick-and-morty-app)](https://github.com/leodiazv/leo-rick-and-morty-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leodiazv&repo=pokedex)]([https://github.com/leodiazv/e-comerce](https://github.com/leodiazv/pokedex))
