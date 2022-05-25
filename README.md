@@ -43,3 +43,4 @@
 
 <h4>Back</h4>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leodiazv&repo=restaurant-backend)](https://github.com/leodiazv/restaurant-backend)
