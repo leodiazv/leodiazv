@@ -44,3 +44,4 @@
 <h4>Back</h4>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leodiazv&repo=restaurant-backend)](https://github.com/leodiazv/restaurant-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leodiazv&repo=e-commerce-nodeback)](https://github.com/leodiazv/e-commerce-nodeback)
