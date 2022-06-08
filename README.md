@@ -29,7 +29,7 @@
 
 <h4>Front</h4>
 
-<a href="https://leos-e-comerce.netlify.app/#/products">E-COMMERCE</a>
+<a href="https://leos-e-commerce.netlify.app/#/products">E-COMMERCE</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leodiazv&repo=e-commerce)](https://github.com/leodiazv/e-commerce)
 
