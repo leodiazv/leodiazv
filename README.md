@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente curso un bootcamp como programador Web Full-Stack en <a href="https://www.linkedin.com/company/academlo/">Academlo</a>.
 
-- 🌱 Ya he realizado varios proyectos en frontend **(links abajo)** y ahora estoy aprendiendo **NodeJS**
+- 🌱 Ya he realizado varios proyectos en front-end academicos **(links abajo)** y back-end con Node, y ahora estoy aprendiendo **Python**
 
 - 📫 Como contactarme **leodiazv@gmail.com**
 
