@@ -1,9 +1,9 @@
 <h1 align="center">Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Soy Leo</h1>
 <h3 align="center">Un programador buscando salir del cascarón 🥚🐣🐥</h3>
 
-- 🔭 Actualmente curso un bootcamp como programador Web Full-Stack en <a href="https://www.linkedin.com/company/academlo/">Academlo</a>.
+- 🔭 Me capacité en un bootcamp como programador Web Full-Stack en <a href="https://www.linkedin.com/company/academlo/">Academlo</a>.
 
-- 🌱 Ya he realizado varios proyectos en front-end academicos **(links abajo)** y back-end con Node, y ahora estoy aprendiendo **Python**
+- 🌱 Ya he realizado varios proyectos en front-end academicos **(links abajo)** y back-end con Node, y ahora estoy mejorando mis habilidades generales en front.
 
 - 📫 Como contactarme **leodiazv@gmail.com**
 
